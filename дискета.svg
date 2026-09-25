@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="дискета.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.51717104"
+     inkscape:cx="160.48849"
+     inkscape:cy="652.58875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10">
+      <g
+         id="g9">
+        <path
+           id="rect1"
+           style="fill:#000000;stroke-width:0.264583"
+           d="M 0.091467285 21.67878 L 0.091467285 231.49646 L 94.146708 231.49646 A 3.3760099 3.3760099 0 0 1 94.145158 231.47114 A 3.3760099 3.3760099 0 0 1 97.521179 228.09512 A 3.3760099 3.3760099 0 0 1 100.8972 231.47114 A 3.3760099 3.3760099 0 0 1 100.89513 231.49646 L 109.25173 231.49646 A 3.3760099 3.3760099 0 0 1 109.25018 231.47114 A 3.3760099 3.3760099 0 0 1 112.6262 228.09512 A 3.3760099 3.3760099 0 0 1 116.00222 231.47114 A 3.3760099 3.3760099 0 0 1 116.00015 231.49646 L 209.90863 231.49646 L 209.90863 81.03278 L 203.44391 81.03278 L 203.44391 73.074093 L 209.90863 73.074093 L 209.90863 21.67878 L 0.091467285 21.67878 z M 104.99979 93.482666 A 34.004871 34.004871 0 0 1 139.00495 127.48783 A 34.004871 34.004871 0 0 1 104.99979 161.49247 A 34.004871 34.004871 0 0 1 70.99515 127.48783 A 34.004871 34.004871 0 0 1 104.99979 93.482666 z " />
+        <path
+           id="path3"
+           style="fill:#dcdcdc;stroke-width:0.223728"
+           d="M 104.99979 85.88623 A 41.601707 41.601707 0 0 0 63.398197 127.48783 A 41.601707 41.601707 0 0 0 104.99979 169.08942 A 41.601707 41.601707 0 0 0 146.6019 127.48783 A 41.601707 41.601707 0 0 0 104.99979 85.88623 z M 104.99979 93.482666 A 34.004871 34.004871 0 0 1 139.00495 127.48783 A 34.004871 34.004871 0 0 1 104.99979 161.49247 A 34.004871 34.004871 0 0 1 70.99515 127.48783 A 34.004871 34.004871 0 0 1 104.99979 93.482666 z " />
+        <rect
+           style="fill:#ffffff;stroke-width:0.264583"
+           id="rect4"
+           width="58.242386"
+           height="38.345921"
+           x="8.6820946"
+           y="33.342999"
+           rx="2.7755576e-17" />
+        <rect
+           style="fill:#ffffff;stroke-width:0.35501"
+           id="rect5"
+           width="101.47236"
+           height="39.624912"
+           x="86.982002"
+           y="33.342999"
+           rx="4.8356946e-17" />
+        <rect
+           style="fill:#dcdcdc;stroke-width:0.570676"
+           id="rect7"
+           width="8.3203411"
+           height="38.707676"
+           x="100.92935"
+           y="178.90678"
+           rx="2.7755579e-17" />
+        <ellipse
+           style="fill:#dcdcdc;stroke-width:0.244049"
+           id="path7"
+           cx="105.09228"
+           cy="179.02708"
+           rx="4.1657219"
+           ry="4.0927792" />
+        <ellipse
+           style="fill:#dcdcdc;stroke-width:0.244049"
+           id="ellipse8"
+           cx="105.09228"
+           cy="217.33278"
+           rx="4.1657219"
+           ry="4.0927792" />
+      </g>
+      <rect
+         style="fill:#000000;stroke-width:0.262097"
+         id="rect9"
+         width="94.883133"
+         height="1.7905908"
+         x="90.826714"
+         y="40"
+         rx="2.7236368e-17" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect9"
+         id="use9"
+         transform="translate(0,13)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect9"
+         id="use10"
+         transform="translate(0,26)" />
+    </g>
+  </g>
+</svg>
